@@ -1,0 +1,16 @@
+export const sizes = {
+  xxxxs: 2,
+  xxxs: 4,
+  xxs: 8,
+  xs: 12,
+  ms: 14,
+  s: 16,
+  xsm: 20,
+  sm: 24,
+  m: 32,
+  ml: 40,
+  l: 48,
+  xl: 56,
+  xxl: 64,
+  xxxl: 80,
+};
